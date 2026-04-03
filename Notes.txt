@@ -1,0 +1,11 @@
+id attribute
+******************
+ID give an element a unique name
+
+Class attribute
+*******************
+Groups elements under a shared name
+
+Semantic HTML
+**********************************************
+1. 
