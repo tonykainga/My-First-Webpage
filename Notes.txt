@@ -13,3 +13,10 @@ Semantic HTML
    2 Nav Tag
    3.Sections
    4.Footer contains information i.e copy rights
+
+
+   Class
+   *************************
+     1. Inline css - added directly inside an element ->
+     2. Internal css - write it inside the <style><
+     3. External css -create a whole new CSS file style.css
