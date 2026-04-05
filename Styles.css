@@ -8,3 +8,8 @@ button{
     background-color:black;
     color: white;
 }
+header{
+    text-align: center;
+    background-color: lightgray;
+    padding: 20px;
+}

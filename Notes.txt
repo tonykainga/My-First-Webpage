@@ -15,8 +15,21 @@ Semantic HTML
    4.Footer contains information i.e copy rights
 
 
-   Class
+   css
    *************************
      1. Inline css - added directly inside an element ->
      2. Internal css - write it inside the <style><
      3. External css -create a whole new CSS file style.css
+
+   css properties
+   *********************************
+   font size 
+   text align 
+   height
+   width
+   margin
+   Padding
+   border
+   font-family
+
+   
