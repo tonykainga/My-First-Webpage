@@ -1,3 +1,10 @@
 h3{
     color: red;
 }
+p{
+    color: goldenrod;
+}
+button{
+    background-color:black;
+    color: white;
+}
