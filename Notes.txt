@@ -11,3 +11,5 @@ Semantic HTML
 1. Semantic HTML is important because it makes websites easier to understand—not just for computers, but for people too.
    1 Header tag
    2 Nav Tag
+   3.Sections
+   4.Footer contains information i.e copy rights
