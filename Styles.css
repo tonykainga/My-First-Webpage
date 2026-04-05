@@ -13,3 +13,9 @@ header{
     background-color: lightgray;
     padding: 20px;
 }
+nav{
+    background-color: bisque;
+    padding: 10px;
+    margin: 10px;
+    text-align: end;
+}
